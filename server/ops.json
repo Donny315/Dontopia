@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "11f8d2b2-62b9-3816-af4e-ef1512cecd40",
+    "name": "DonaldJr",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
