@@ -10,12 +10,22 @@ Nighty:
     X: 262.4741998612818
     Y: 70.0
     Z: -84.30000001192093
+  JacobxNighty:
+    world: world
+    X: 265.6999999880791
+    Y: 70.5625
+    Z: -86.59167032456126
 DonaldJr:
   Home:
     world: world
     X: 415.32362014511887
     Y: 81.0
     Z: -253.0111009146243
+  Portal:
+    world: world
+    X: 547.027114559389
+    Y: 63.0
+    Z: -386.69999998807896
 78Jacob_Adams2:
   Home:
     world: world
