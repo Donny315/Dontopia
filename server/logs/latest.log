@@ -213,3 +213,552 @@
 
 [05:16:03] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[05:17:06] [Thread-7/INFO]: UUID of player DonaldJr is 11f8d2b2-62b9-3816-af4e-ef1512cecd40
+[05:17:06] [Server thread/INFO]: DonaldJr[/[0:0:0:0:0:0:0:1]:44922] logged in with entity id 403 at ([world]422.69999998807907, 81.1875, -253.69999998807907)
+[05:17:36] [Server thread/INFO]: DonaldJr lost connection: Login timed out!
+[05:17:36] [Server thread/INFO]: DonaldJr left the game.
+[05:17:37] [Server thread/WARN]: handleDisconnection() called twice
+[05:17:41] [Thread-8/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:17:41] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:44242] logged in with entity id 545 at ([world]376.89211771406553, 63.0, -52.644896447864994)
+[05:18:02] [Server thread/INFO]: Snowy issued server command: /loguin bestSnowy
+[05:18:10] [Thread-9/INFO]: UUID of player DonaldJr is 11f8d2b2-62b9-3816-af4e-ef1512cecd40
+[05:18:10] [Server thread/INFO]: DonaldJr[/[0:0:0:0:0:0:0:1]:36066] logged in with entity id 659 at ([world]422.1668806841911, 81.1875, -253.0354571082818)
+[05:18:12] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:18:12] [Server thread/INFO]: Snowy left the game.
+[05:18:12] [Server thread/WARN]: handleDisconnection() called twice
+[05:18:15] [Thread-10/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:18:15] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:36076] logged in with entity id 795 at ([world]376.89211771406553, 63.0, -52.644896447864994)
+[05:18:46] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:18:46] [Server thread/INFO]: Snowy left the game.
+[05:18:46] [Server thread/INFO]: DonaldJr lost connection: Disconnected
+[05:18:46] [Server thread/INFO]: DonaldJr left the game.
+[05:18:46] [Server thread/WARN]: handleDisconnection() called twice
+[05:19:20] [Thread-11/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:19:20] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:39664] logged in with entity id 916 at ([world]376.89211771406553, 63.0, -52.644896447864994)
+[05:19:37] [Thread-12/INFO]: UUID of player 78Jacob_Adams2 is db0506eb-0e3e-3118-86fe-b8e856142ecb
+[05:19:37] [Server thread/INFO]: 78Jacob_Adams2[/[0:0:0:0:0:0:0:1]:58126] logged in with entity id 1030 at ([world]263.5660073956918, 70.0625, -85.5507268182028)
+[05:19:51] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:19:51] [Server thread/INFO]: Snowy left the game.
+[05:19:51] [Server thread/WARN]: handleDisconnection() called twice
+[05:19:55] [Async Chat Thread - #0/INFO]: <78Jacob_Adams2> Finaly[m
+
+[05:19:55] [Thread-13/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:19:56] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:46600] logged in with entity id 1165 at ([world]376.89211771406553, 63.0, -52.644896447864994)
+[05:20:01] [Async Chat Thread - #0/INFO]: <78Jacob_Adams2> Finally*[m
+
+[05:20:26] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:20:26] [Server thread/INFO]: Snowy left the game.
+[05:20:26] [Server thread/WARN]: handleDisconnection() called twice
+[05:20:30] [Thread-14/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:20:30] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:40402] logged in with entity id 1322 at ([world]376.89211771406553, 63.0, -52.644896447864994)
+[05:21:00] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:21:00] [Server thread/INFO]: Snowy left the game.
+[05:21:01] [Server thread/WARN]: handleDisconnection() called twice
+[05:21:05] [Thread-16/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:21:05] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:58288] logged in with entity id 1511 at ([world]376.89211771406553, 63.0, -52.644896447864994)
+[05:21:36] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:21:36] [Server thread/INFO]: Snowy left the game.
+[05:21:36] [Server thread/WARN]: handleDisconnection() called twice
+[05:21:39] [Thread-17/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:21:39] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:48632] logged in with entity id 1694 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:22:10] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:22:10] [Server thread/INFO]: Snowy left the game.
+[05:22:10] [Server thread/WARN]: handleDisconnection() called twice
+[05:22:14] [Thread-18/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:22:14] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:44002] logged in with entity id 1937 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:22:45] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:22:45] [Server thread/INFO]: Snowy left the game.
+[05:22:45] [Server thread/WARN]: handleDisconnection() called twice
+[05:23:52] [Server thread/INFO]: [Server] please jacob stop harassing others
+[05:24:03] [Async Chat Thread - #1/INFO]: <78Jacob_Adams2> Wowww[m
+
+[05:26:02] [Server thread/INFO]: Opped Snowy
+[05:26:24] [Thread-19/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:26:24] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:50026] logged in with entity id 2525 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:26:43] [Server thread/INFO]: Snowy lost connection: Disconnected
+[05:26:43] [Server thread/INFO]: Snowy left the game.
+[05:26:50] [Server thread/INFO]: [0;31;1mYou must be a player to execute this command![m
+
+[05:27:23] [Thread-20/INFO]: UUID of player DonaldJr is 11f8d2b2-62b9-3816-af4e-ef1512cecd40
+[05:27:23] [Server thread/INFO]: DonaldJr[/[0:0:0:0:0:0:0:1]:53330] logged in with entity id 2644 at ([world]422.1668806841911, 81.1875, -253.0354571082818)
+[05:27:52] [Server thread/INFO]: DonaldJr lost connection: Disconnected
+[05:27:52] [Server thread/INFO]: DonaldJr left the game.
+[05:28:18] [Thread-21/INFO]: UUID of player DonaldJr is 11f8d2b2-62b9-3816-af4e-ef1512cecd40
+[05:28:18] [Server thread/INFO]: DonaldJr[/[0:0:0:0:0:0:0:1]:47954] logged in with entity id 2803 at ([world]422.1668806841911, 81.1875, -253.0354571082818)
+[05:29:17] [Thread-22/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:29:17] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:32908] logged in with entity id 3096 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:29:48] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:29:48] [Server thread/INFO]: Snowy left the game.
+[05:29:48] [Server thread/WARN]: handleDisconnection() called twice
+[05:30:02] [Thread-23/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:30:02] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:43996] logged in with entity id 3320 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:33:22] [Server thread/INFO]: Could not de-op 78Jacob_Adams2
+[05:34:46] [Server thread/INFO]: Snowy lost connection: [LoginSecurity] Exceeded max login tries: 5
+[05:34:46] [Server thread/INFO]: Snowy left the game.
+[05:34:46] [Server thread/WARN]: handleDisconnection() called twice
+[05:35:02] [Thread-24/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:35:02] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:55300] logged in with entity id 4551 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:35:33] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:35:33] [Server thread/INFO]: Snowy left the game.
+[05:35:33] [Server thread/WARN]: handleDisconnection() called twice
+[05:35:50] [Thread-25/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:35:50] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:37412] logged in with entity id 4686 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:36:21] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:36:21] [Server thread/INFO]: Snowy left the game.
+[05:36:21] [Server thread/WARN]: handleDisconnection() called twice
+[05:36:29] [Thread-26/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:36:29] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:48348] logged in with entity id 4830 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:36:30] [Async Chat Thread - #2/INFO]: <78Jacob_Adams2> lol[m
+
+[05:36:43] [Server thread/INFO]: Snowy lost connection: Disconnected
+[05:36:43] [Server thread/INFO]: Snowy left the game.
+[05:36:52] [Thread-27/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:36:52] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:55338] logged in with entity id 4963 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:37:11] [Async Chat Thread - #2/INFO]: <DonaldJr> Go. To. Hell.[m
+
+[05:37:23] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:37:23] [Server thread/INFO]: Snowy left the game.
+[05:37:23] [Server thread/WARN]: handleDisconnection() called twice
+[05:38:14] [Server thread/INFO]: DonaldJr issued server command: /gamemode 78Jacob_Adams2 spectator
+[05:38:14] [Server thread/INFO]: [DonaldJr: '78Jacob_Adams2' is not a valid number]
+[05:38:38] [Server thread/INFO]: DonaldJr issued server command: /gamemode spectator 78Jacob_Adams2
+[05:38:38] [Server thread/INFO]: [DonaldJr: Set 78Jacob_Adams2's game mode to Spectator Mode]
+[05:38:51] [Server thread/INFO]: DonaldJr issued server command: /gamemode survival 78Jacob_Adams2
+[05:38:51] [Server thread/INFO]: [DonaldJr: Set 78Jacob_Adams2's game mode to Survival Mode]
+[05:39:10] [Thread-28/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:39:10] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:60810] logged in with entity id 5195 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:39:41] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:39:41] [Server thread/INFO]: Snowy left the game.
+[05:39:41] [Server thread/WARN]: handleDisconnection() called twice
+[05:39:49] [Thread-29/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:39:49] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:45676] logged in with entity id 5340 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:40:20] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:40:20] [Server thread/INFO]: Snowy left the game.
+[05:40:20] [Server thread/WARN]: handleDisconnection() called twice
+[05:40:25] [Thread-30/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:40:25] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:56240] logged in with entity id 5515 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:40:40] [Server thread/INFO]: Snowy lost connection: Disconnected
+[05:40:40] [Server thread/INFO]: Snowy left the game.
+[05:41:23] [Server thread/INFO]: De-opped Snowy
+[05:45:35] [Thread-31/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:45:36] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:44786] logged in with entity id 6203 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:45:40] [Server thread/INFO]: Snowy issued server command: /forgot
+[05:46:06] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:46:06] [Server thread/INFO]: Snowy left the game.
+[05:46:06] [Server thread/WARN]: handleDisconnection() called twice
+[05:46:13] [Server thread/INFO]: [Server] You're righ, Jacob... JESUS...
+[05:46:18] [Thread-32/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:46:18] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:44640] logged in with entity id 6342 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:46:32] [Server thread/INFO]: Snowy lost connection: Disconnected
+[05:46:32] [Server thread/INFO]: Snowy left the game.
+[05:46:43] [Thread-33/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:46:43] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:49686] logged in with entity id 6568 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:47:07] [Server thread/INFO]: DonaldJr lost connection: Disconnected
+[05:47:07] [Server thread/INFO]: DonaldJr left the game.
+[05:47:14] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:47:14] [Server thread/INFO]: Snowy left the game.
+[05:47:14] [Server thread/WARN]: handleDisconnection() called twice
+[05:47:22] [Thread-34/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:47:22] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:36634] logged in with entity id 7004 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:47:53] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:47:53] [Server thread/INFO]: Snowy left the game.
+[05:47:53] [Server thread/WARN]: handleDisconnection() called twice
+[05:48:27] [Thread-35/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:48:27] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:39740] logged in with entity id 7255 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:48:58] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:48:58] [Server thread/INFO]: Snowy left the game.
+[05:48:58] [Server thread/WARN]: handleDisconnection() called twice
+[05:50:45] [Server thread/INFO]: Usage: /tell <player> <private message ...>
+[05:51:36] [Server thread/INFO]: You whisper to 78Jacob_Adams2: &fWarning: You have been warned! Reason: Not listening
+[05:51:40] [Thread-37/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:51:40] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:52594] logged in with entity id 7820 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:52:11] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:52:11] [Server thread/INFO]: Snowy left the game.
+[05:52:11] [Server thread/WARN]: handleDisconnection() called twice
+[05:52:45] [Thread-38/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:52:46] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:37992] logged in with entity id 7982 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:53:17] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:53:17] [Server thread/INFO]: Snowy left the game.
+[05:53:17] [Server thread/WARN]: handleDisconnection() called twice
+[05:53:22] [Thread-39/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:53:23] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:52904] logged in with entity id 8126 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:53:33] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 54 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 54 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1540) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[05:53:34] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 55 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 55 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1540) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[05:53:34] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 56 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 56 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1540) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[05:53:35] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 57 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 57 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1540) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[05:53:36] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 58 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 58 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1540) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[05:53:36] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 59 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 59 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1540) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[05:53:36] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 60 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 60 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1540) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[05:53:37] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 61 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 61 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1540) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[05:53:38] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 62 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 62 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1540) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[05:53:38] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 71 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 71 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1540) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[05:53:39] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 70 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 70 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1540) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[05:53:39] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 69 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 69 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1490) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[05:53:42] [Server thread/INFO]: Snowy lost connection: Disconnected
+[05:53:42] [Server thread/INFO]: Snowy left the game.
+[05:53:44] [Thread-40/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:53:45] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:44184] logged in with entity id 8277 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:54:15] [Server thread/INFO]: Snowy lost connection: Disconnected
+[05:54:15] [Server thread/INFO]: Snowy left the game.
+[05:54:17] [Thread-41/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:54:17] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:53698] logged in with entity id 8476 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:54:48] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:54:48] [Server thread/INFO]: Snowy left the game.
+[05:54:48] [Server thread/WARN]: handleDisconnection() called twice
+[05:56:03] [Thread-42/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:56:03] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:45638] logged in with entity id 8662 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:56:34] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:56:34] [Server thread/INFO]: Snowy left the game.
+[05:56:34] [Server thread/WARN]: handleDisconnection() called twice
+[05:56:42] [Thread-43/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[05:56:42] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:50946] logged in with entity id 8830 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[05:57:13] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[05:57:13] [Server thread/INFO]: Snowy left the game.
+[05:57:13] [Server thread/WARN]: handleDisconnection() called twice
+[06:01:51] [Server thread/INFO]: 78Jacob_Adams2 lost connection: Disconnected
+[06:01:51] [Server thread/INFO]: 78Jacob_Adams2 left the game.
+[06:01:57] [Thread-44/INFO]: UUID of player 78Jacob_Adams2 is db0506eb-0e3e-3118-86fe-b8e856142ecb
+[06:01:57] [Server thread/INFO]: 78Jacob_Adams2[/[0:0:0:0:0:0:0:1]:58618] logged in with entity id 9226 at ([world]270.7278106085071, 63.0, -83.29450941878254)
+[06:02:10] [Thread-45/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[06:02:10] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:35216] logged in with entity id 9333 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[06:02:41] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[06:02:41] [Server thread/INFO]: Snowy left the game.
+[06:02:41] [Server thread/WARN]: handleDisconnection() called twice
+[06:02:59] [Thread-46/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[06:03:00] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:53964] logged in with entity id 9449 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[06:03:31] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[06:03:31] [Server thread/INFO]: Snowy left the game.
+[06:03:31] [Server thread/WARN]: handleDisconnection() called twice
+[06:04:51] [Server thread/INFO]: Changing to clear weather
+[06:06:59] [Thread-47/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[06:06:59] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:46402] logged in with entity id 9694 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[06:07:22] [Server thread/INFO]: Snowy lost connection: [LoginSecurity] Exceeded max login tries: 5
+[06:07:22] [Server thread/INFO]: Snowy left the game.
+[06:07:22] [Server thread/WARN]: handleDisconnection() called twice
+[06:07:26] [Thread-48/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[06:07:26] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:41172] logged in with entity id 9822 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[06:07:57] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[06:07:57] [Server thread/INFO]: Snowy left the game.
+[06:08:21] [Thread-49/INFO]: UUID of player Snowy is 5522e4ef-9387-3398-8d4f-182dd83b3102
+[06:08:22] [Server thread/INFO]: Snowy[/[0:0:0:0:0:0:0:1]:49440] logged in with entity id 9965 at ([world]376.91302581065884, 63.0, -52.441479708270485)
+[06:08:38] [Server thread/INFO]: 78Jacob_Adams2 lost connection: Kicked by an operator.
+[06:08:38] [Server thread/INFO]: 78Jacob_Adams2 left the game.
+[06:08:38] [Server thread/INFO]: Kicked 78Jacob_Adams2 from the game
+[06:08:38] [Server thread/WARN]: handleDisconnection() called twice
+[06:08:52] [Server thread/INFO]: Snowy lost connection: Login timed out!
+[06:08:52] [Server thread/INFO]: Snowy left the game.
+[06:08:52] [Server thread/WARN]: handleDisconnection() called twice
+[06:12:14] [Thread-50/INFO]: UUID of player Nighty is a9e7ee8b-86a9-3aa2-a88b-e7182f468ac3
+[06:12:15] [Server thread/INFO]: Nighty[/[0:0:0:0:0:0:0:1]:59022] logged in with entity id 10086 at ([world]412.5, 81.0, -256.5)
+[06:13:13] [Thread-51/INFO]: UUID of player DonaldJr is 11f8d2b2-62b9-3816-af4e-ef1512cecd40
+[06:13:13] [Server thread/INFO]: DonaldJr[/[0:0:0:0:0:0:0:1]:46002] logged in with entity id 10267 at ([world]412.2878089166717, 81.5625, -251.3165699027722)
+[06:13:44] [Server thread/INFO]: DonaldJr issued server command: /weather clear
+[06:13:44] [Server thread/INFO]: [DonaldJr: Changing to clear weather]
+[06:14:50] [Async Chat Thread - #3/INFO]: <Nighty> zzzzz[m
+
+[06:14:51] [Thread-52/INFO]: UUID of player CatGirl is 2d6cb31a-c864-3063-acab-6d4924939562
+[06:14:51] [Server thread/INFO]: CatGirl[/[0:0:0:0:0:0:0:1]:37076] logged in with entity id 10367 at ([world]-1.5, 63.0, 115.5)
+[06:15:19] [Server thread/INFO]: CatGirl lost connection: Disconnected
+[06:15:19] [Server thread/INFO]: CatGirl left the game.
+[06:15:46] [Async Chat Thread - #3/INFO]: <DonaldJr> ...[m
+
+[06:16:12] [Async Chat Thread - #3/INFO]: <DonaldJr> No.[m
+
+[06:16:17] [Async Chat Thread - #3/INFO]: <Nighty> Yes[m
+
+[06:16:24] [Thread-53/INFO]: UUID of player CatGirl is 2d6cb31a-c864-3063-acab-6d4924939562
+[06:16:24] [Server thread/INFO]: CatGirl[/[0:0:0:0:0:0:0:1]:39190] logged in with entity id 10577 at ([world]-1.5, 63.0, 115.5)
+[06:16:38] [Server thread/INFO]: CatGirl lost connection: Disconnected
+[06:16:38] [Server thread/INFO]: CatGirl left the game.
+[06:16:40] [Server thread/INFO]: Nighty lost connection: Disconnected
+[06:16:40] [Server thread/INFO]: Nighty left the game.
+[06:16:41] [Server thread/INFO]: DonaldJr lost connection: Disconnected
+[06:16:41] [Server thread/INFO]: DonaldJr left the game.
